@@ -22,3 +22,7 @@ http://localhost:15672
 User: admin
 Password: admin
 ```
+
+## Fizemos um vídeo no Youtube ensinando como rodar na prática os microserviços com Nest.js
+
+[https://www.youtube.com/watch?v=MRk2Y_h2F-Q](https://www.youtube.com/watch?v=MRk2Y_h2F-Q)
